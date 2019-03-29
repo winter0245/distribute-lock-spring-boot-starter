@@ -1,0 +1,7 @@
+spring:
+  redis:
+    host: 192.168.31.16
+    lock: true
+    database: 0
+    password: 123456
+    timeout: 50000
